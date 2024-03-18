@@ -1,26 +1,26 @@
 {
-	"id": "your-module-name",
-	"name": "your-module-name",
-	"shortname": "module-shortname",
-	"description": "A short one line description of your module",
+	"id": "axeltechnology_vjpro",
+	"name": "axeltechnology_vjpro",
+	"shortname": "vjpro",
+	"description": "vjpro commands",
 	"version": "0.0.0",
 	"license": "MIT",
-	"repository": "git+https://github.com/bitfocus/companion-module-your-module-name.git",
-	"bugs": "https://github.com/bitfocus/companion-module-your-module-name/issues",
+	"repository": "git+https:https://github.com/bitfocus/companion-module-axeltechnology-vjpro.git",
+	"bugs": "https:https://github.com/bitfocus/companion-module-axeltechnology-vjpro/issues",
 	"maintainers": [
 		{
-			"name": "Your name",
-			"email": "Your email"
+			"name": "Ruslan Rolkin",
+			"email": "ruslan.rolkin@axeltechnology.com"
 		}
 	],
+	"legacyIds": [],
 	"runtime": {
 		"type": "node18",
 		"api": "nodejs-ipc",
 		"apiVersion": "0.0.0",
-		"entrypoint": "../main.js"
+		"entrypoint": "../index.js"
 	},
-	"legacyIds": [],
-	"manufacturer": "Your company",
-	"products": ["Your product"],
-	"keywords": []
+	"manufacturer": "AxelTechnology",
+	"products": ["vjpro"],
+	"keywords": ["vjpro", "vj","axel","technology"]
 }
