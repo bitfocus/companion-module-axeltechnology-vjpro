@@ -20,7 +20,7 @@
 		"apiVersion": "0.0.0",
 		"entrypoint": "../index.js"
 	},
-	"manufacturer": "AxelTechnology",
-	"products": ["vjpro"],
-	"keywords": ["vjpro", "vj","axel","technology"]
+	"manufacturer": "AxelTech",
+	"products": ["VJ Pro"],
+	"keywords": ["vjpro", "vj","axel","technology","pro","vj pro"]
 }
