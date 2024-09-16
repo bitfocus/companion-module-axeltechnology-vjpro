@@ -1,5 +1,5 @@
 {
-	"id": "axeltechnology-vjpro",
+	"id": "axeltech-vjpro",
 	"name": "axeltechnology-vjpro",
 	"shortname": "vjpro",
 	"description": "vjpro commands",
@@ -13,7 +13,7 @@
 			"email": "ruslan.rolkin@axeltechnology.com"
 		}
 	],
-	"legacyIds": [],
+	"legacyIds": ["axeltechnology_vjpro"],
 	"runtime": {
 		"type": "node18",
 		"api": "nodejs-ipc",
